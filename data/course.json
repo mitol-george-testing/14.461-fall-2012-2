@@ -1,0 +1,28 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "dcdd5fa5-1aa9-1781-6fd1-2c9f28fc3c8f",
+      "84f1c8ea-ca40-29e3-7440-0fb494dcef3e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Macroeconomics I",
+  "course_description": "14.461 is an advanced course in macroeconomics that seeks to bring students to the research frontier. The course is divided into two sections. The first half is taught by Prof. Iv\u00e1n Werning and covers topics such as how to formulate and solve optimal problems. Students will study fiscal and monetary policy, among other issues. The second half, taught by Prof. George-Marios Angeletos, covers recent work on multiple equilibria, global games, and informational fictions.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.461",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
